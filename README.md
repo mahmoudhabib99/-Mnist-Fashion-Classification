@@ -1,6 +1,6 @@
 # Mnist-Fashion-Classification
 
- * Implement a LeNet-5 network to recognize the Fashion MNIST digits.
+ * Implement a LeNet-5 network to recognize the Fashion MNIST.
  
 ![L_Net](https://user-images.githubusercontent.com/65713718/208271146-4fb2e7bb-edb5-4372-87b6-6fe0e4b5db83.png))
  * Modify hyperparameters to get to the best performance you can achieve. 
